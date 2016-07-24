@@ -1,0 +1,54 @@
+#article1 {
+	background-color: red;
+	font-family: serif;
+	font-size: x-small;
+	color: blue;
+	line-height: normal;
+	padding: 1em;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+
+#article2 {
+	background-color: orange;
+	font-family: sans-serif;
+	font-size: small;
+	color: red;
+	line-height: 3.5;
+	padding: 2em;
+	border: 3px solid black;
+	border-radius: 10px;
+}
+
+#article3 {
+	background-color: yellow;
+	font-family: monospace;
+	font-size: medium;
+	color: purple;
+	line-height: 3em;
+	padding: 3em;
+	border: 3px solid black;
+	border-radius: 15px;
+}
+
+#article4 {
+	background-color: green;
+	font-family: cursive;
+	font-size: large;
+	color: red;
+	line-height: 34%;
+	padding: 4em;
+	border: 3px solid black;
+	border-radius: 20px;
+}
+
+#article5 {
+	background-color: purple;
+	font-family: fantasy;
+	font-size: x-large;
+	color: white;
+	line-height: 1;
+	padding: 5em;
+	border: 3px solid black;
+	border-radius: 25px;
+}
